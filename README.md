@@ -27,7 +27,7 @@ This web application is deployed using **Render** and is accessible online.
 
 * **Python**
 * **Flask** (Web Framework)
-* **HTML / Jinja2 Templates**
+* **HTML
 * **Requests** (for API calls)
 * **OpenWeather API** (or similar weather API)
 
